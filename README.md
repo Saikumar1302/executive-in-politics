@@ -1,5 +1,4 @@
 
-# Executives in Politics — Replication
 
 # Executives in Politics — Replication
 
