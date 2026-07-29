@@ -40,17 +40,7 @@ executives-in-politics-replication/
 ├── requirements.txt
 │
 ├── executive.ipynb
-│
-├── data/
-│   ├── README.md
-│   └── raw/
-│
-├── results/
-│   ├── figures/
-│   └── tables/
-│
-└── docs/
-    └── replication_results.md
+│_____replication_results.md
 ```
 
 ### Files and Folders
